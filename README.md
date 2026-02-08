@@ -46,16 +46,20 @@ To review the project code and run it locally:
 
 This project features high-quality assets from the 3D community, used under **CC-BY** licensing.
 
-### **Featured Vehicles**
-* **Tesla Model 3** by [David_Holiday](https://sketchfab.com/David_Holiday) ([Source](https://sketchfab.com/3d-models/tesla-model-3-123c10f376ec4f18b93c73afc382808b)) / [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)
-* **Tesla Semi** by [Aleksei Rozumnyi](https://sketchfab.com/Aleksei.Rozumnyi) ([Source](https://sketchfab.com/3d-models/tesla-semi-39ffc7c746184e0c9ebd5bbcd0b405dd)) / [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)
+Huge thanks for the 3D models to:
 
-### **Environment & Scenery (via Poly Pizza)**
-*All assets below used under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/):*
-* **Cactus, Kayak, Traffic Light** by [Poly by Google](https://poly.pizza/u/Poly%20by%20Google)
-* **Picnic Table, Concrete Barrier** by [J-Toastie](https://poly.pizza/u/J-Toastie)
-* **Cybertruck** by [Hashikemu](https://market.pmnd.rs/creator/hashikemu)
-* **Tires, Cargo Container** by [Quaternius](https://poly.pizza/u/Quaternius)
+Cactus by Poly by Google CC-BY via Poly Pizza (https://poly.pizza/m/9UCcl_W0Xq3)
+Picnic Table by J-Toastie CC-BY via Poly Pizza (https://poly.pizza/m/GQieALI2C4)
+Kayak by Poly by Google CC-BY via Poly Pizza (https://poly.pizza/m/8d-cgFdVEVN)
+Cybertruck by Hashikemu https://market.pmnd.rs/creator/hashikemu https://market.pmnd.rs/model/cybertruck
+Three way traffic light by Poly by Google CC-BY via Poly Pizza (https://poly.pizza/m/ayAwgj82oUR)
+Tires by Quaternius (https://poly.pizza/m/mmq7GmG1AK)
+Wall desk speakers by Poly by Google CC-BY via Poly Pizza (https://poly.pizza/m/fhFGDsv5jje)
+Cargo Train Container by Quaternius (https://poly.pizza/m/AILdezfcv1)
+Cone by J-Toastie CC-BY via Poly Pizza (https://poly.pizza/m/WoXpAJT0oD)
+Concrete Barrier by J-Toastie CC-BY via Poly Pizza (https://poly.pizza/m/5Cg2oW7EFn)
+Tesla Model 3 Author: David_Holiday (https://sketchfab.com/David_Holiday) License: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/) Source: https://sketchfab.com/3d-models/tesla-model-3-123c10f376ec4f18b93c73afc382808b
+Tesla Semi: Author: Aleksei Rozumnyi (https://sketchfab.com/Aleksei.Rozumnyi) License: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/) Source: https://sketchfab.com/3d-models/tesla-semi-39ffc7c746184e0c9ebd5bbcd0b405dd
 
 ---
 
